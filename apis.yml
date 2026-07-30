@@ -1,4 +1,16 @@
 aid: monster-hunter-world
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/monster-hunter-world.png
 name: Monster Hunter World
 description: "Monster Hunter World data"
 url: https://docs.mhw-db.com/
